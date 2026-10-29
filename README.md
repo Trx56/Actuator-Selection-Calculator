@@ -26,3 +26,13 @@
  Actuator-Selection-Calculator
  ┣  calculator.py       # Core logic gates and CLI prompt engine
  ┗  README.md           # Project documentation
+
+## How to Run
+
+python calculator.py
+
+Answer the prompts (load, speed, battery or mains power) and the tool recommends an actuator type and a matching commercial model.
+
+## Note
+
+Recommendations follow the selection flowchart from my Saintgits case study on commercial actuators (Maxon, TowerPro, ODrive, Bosch Rexroth, Festo). It is a learning tool, not a replacement for a manufacturer datasheet.
