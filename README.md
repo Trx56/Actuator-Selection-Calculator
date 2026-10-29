@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 * **Dynamic Decision Logic:** Evaluates variables like load capacity (e.g., >500kg triggers hydraulic recommendations) and motion speed requirements[cite: 13].
 * **Commercial Hardware Mapping:** Recommends specific real-world actuators based on the inputs, including the Bosch Rexroth CDH1, Festo ADN, ODrive D6374, TowerPro MG996R, and Maxon DCX[cite: 8, 13].
@@ -15,14 +15,14 @@
 
 ---
 
-## 🛠️ Tech Stack & Libraries
+##  Tech Stack & Libraries
 * **Language:** Python
 * **Interface:** Command Line Interface (CLI)
 
 ---
 
-## 📂 Code Architecture
+##  Code Architecture
 ```text
-📦 Actuator-Selection-Calculator
- ┣ 📜 calculator.py       # Core logic gates and CLI prompt engine
- ┗ 📜 README.md           # Project documentation
+ Actuator-Selection-Calculator
+ ┣  calculator.py       # Core logic gates and CLI prompt engine
+ ┗  README.md           # Project documentation
